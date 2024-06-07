@@ -1,0 +1,5 @@
+name=Game
+author=Jason Hackleman
+description=A small demo of the C API
+bundleID=com.github.hackleman
+imagePath=
